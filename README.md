@@ -1,9 +1,9 @@
-<h1 align="center"> ɢɪғᴛᴇᴅ ᴍᴅ Version 2.5.0 </h1> 
+<h1 align="center"> ranger md 2.5.0 </h1> 
  <br>
 
 
 
-<p align="center"> Introducing ɢɪғᴛᴇᴅ ʙᴏᴛ v2.5.0, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+<p align="center"> Introducing RANGER MD BOTv2.5.0, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
   <a href="https://github.com/mouricedevs/Gifted-Md">
