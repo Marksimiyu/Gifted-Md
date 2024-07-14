@@ -5,12 +5,12 @@
 
 <p align="center"> Introducing SCANIA MD v2.5.0, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
-p align="center">
+
+    p align="center">
   <a href="https://github.com/mouricedevs/Gifted-Md">
     <img alt="Gifted docs" height="300" src="https://telegra.ph/file/54efddccf41281ad7ec51.jpg">
   </a>
 </p>
-    
    
    
 <p align="center">
