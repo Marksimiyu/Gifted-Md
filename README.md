@@ -1,9 +1,9 @@
-<h1 align="center"> ɢɪғᴛᴇᴅ ᴍᴅ Version 2.5.0 </h1> 
+<h1 align="center"> SCANIA MD BOT 2.5.0 </h1> 
  <br>
 
 
 
-<p align="center"> Introducing ɢɪғᴛᴇᴅ ʙᴏᴛ v2.5.0, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+<p align="center"> Introducing SCANIA MD v2.5.0, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
   <a href="https://github.com/mouricedevs/Gifted-Md">
@@ -18,7 +18,7 @@
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
   <a aria-label="ɢɪғᴛᴇᴅ ʙᴏᴛ v.2.5.0 is free to use" href="https://github.com/mouricedevs/Gifted-Md" target="_blank">
-    <img alt="GiftedTech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+    <img alt="SCANIA" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
@@ -29,7 +29,7 @@
 
 
 
-<p align="center"> ɢɪғᴛᴇᴅ ᴍᴅ V.2.5.0 uses
+<p align="center"> SCANIA V.2.5.0 uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -72,16 +72,16 @@
 
 ---
 
- <h3>Gifted-MD V.2.5.0 Stats</h3>
+ <h3>FORD RANGER AIV.2.5.0 Stats</h3>
 
-![Giftd-mdV2 Stats](https://github-readme-stats.vercel.app/api/pin/?username=mouricedevs&repo=Gifted-Md&show_owner=true&theme=dark)
+![SCANIA Stats](https://github-readme-stats.vercel.app/api/pin/?username=mouricedevs&repo=Gifted-Md&show_owner=true&theme=dark)
 
 
 
 
     
    
-## Gifted-Md V.2.5.0 Deployment Methods
+## SCANIA V.2.5.0 Deployment Methods
 ---
 1.  ***Fork Repo [`CLICK HERE`](https://github.com/mouricedevs/Gifted-Md/fork) (A MUST) and `Star ⭐ Repository` for Courage.***
 2.  ***Get `SESSION ID`  [`BY CLICKING HERE`](https://session.giftedtechnexus.co.ke) Supports Both QR SCAN And Pair Code And then `Go-to Whatapp>Three dots>Linked Devices`***
@@ -100,11 +100,11 @@
 
 
 ### I Am
-- [Gifted Tech](https://github.com/mouricedevs) 
+- [MARK SIMIYU](https://github.com/mouricedevs) 
 
 ---
 ### Credits to:
-- [Suhail Ser](https://github.com/SuhailTechInfo) for the Base Bot
+- [MARK SIMIYU Ser](https://github.com/SuhailTechInfo) for the Base Bot
 - [Astropeda Team](https://github.com/Astropeda) for new menu design and some cmds
 - [France King](https://github.com/franceking1) for our long-lasting brotherhood
 
@@ -116,7 +116,7 @@
 </h2>
    
 ## 
-- *Gifted-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *SCANIA is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Gifted-Md at your own risk by keeping this warning in mind.*
+- *USE SCANIA MDat your own risk by keeping this warning in mind.*
 - [`Deploy on Heroku`](https://deploy-gifted-md.vercel.app)
